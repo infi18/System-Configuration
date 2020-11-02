@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# @Author : Siddhi Naik CWID: A2044173
+# @Author : Siddhi Naik 
 #The Shell Script "MyLinuxConfig" runs a script that fetches user's name 
 #And depicts the system details for the choice entered like :
 #System run time, file system, ip addrress details, Memory capacity, network interfaces
