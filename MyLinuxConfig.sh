@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# @Author : Siddhi Naik, CWID: A20444173
+# @Author : Siddhi Naik
 #The Shell Script "MyLinuxConfig" runs a script that fetches user's name 
 #And depicts the system details like :
 #System run time, file system, ip addrress details, Memory capacity, network interfaces
