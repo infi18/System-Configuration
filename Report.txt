@@ -1,0 +1,60 @@
+Date and Time Of Script Running for system 9deae1c6bab0
+Sun Oct 25 15:11:27 2020 
+OS Release and Linux Flavor for 9deae1c6bab0
+
+Distributor ID:	Ubuntu
+Description:	Ubuntu 20.04.1 LTS
+Release:	20.04
+Codename:	focal
+ 
+Linux 9deae1c6bab0 4.19.128-microsoft-standard #1 SMP Tue Jun 23 12:58:10 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
+ 
+Linux File System for 9deae1c6bab0
+Filesystem     Type     Size  Used Avail Use% Mounted on
+overlay        overlay  251G  1.1G  238G   1% /
+tmpfs          tmpfs     64M     0   64M   0% /dev
+tmpfs          tmpfs    4.7G     0  4.7G   0% /sys/fs/cgroup
+shm            tmpfs     64M     0   64M   0% /dev/shm
+C:\            9p       238G  100G  139G  42% /assignments
+/dev/sdc       ext4     251G  1.1G  238G   1% /etc/hosts
+tmpfs          tmpfs    4.7G     0  4.7G   0% /proc/acpi
+tmpfs          tmpfs    4.7G     0  4.7G   0% /sys/firmware
+ 
+Memory Capacity of 9deae1c6bab0
+              total        used        free      shared  buff/cache   available
+Mem:           9435         357        7677           1        1399        8845
+Swap:          3072           0        3072
+ 
+The Server IP Address for 9deae1c6bab0
+1: lo: <LOOPBACK,UP,LOWER_UP> mtu 65536 qdisc noqueue state UNKNOWN group default qlen 1000
+    link/loopback 00:00:00:00:00:00 brd 00:00:00:00:00:00
+    inet 127.0.0.1/8 scope host lo
+       valid_lft forever preferred_lft forever
+2: sit0@NONE: <NOARP> mtu 1480 qdisc noop state DOWN group default qlen 1000
+    link/sit 0.0.0.0 brd 0.0.0.0
+6: eth0@if7: <BROADCAST,MULTICAST,UP,LOWER_UP> mtu 1500 qdisc noqueue state UP group default 
+    link/ether 02:42:ac:12:00:02 brd ff:ff:ff:ff:ff:ff link-netnsid 0
+    inet 172.18.0.2/16 brd 172.18.255.255 scope global eth0
+       valid_lft forever preferred_lft forever
+ 
+The time system has been running for 9deae1c6bab0
+ 15:11:27 up 6 days, 13:16,  0 users,  load average: 0.06, 0.04, 0.08
+ 
+The Server Network Interfaces for 9deae1c6bab0
+eth0: flags=4163<UP,BROADCAST,RUNNING,MULTICAST>  mtu 1500
+        inet 172.18.0.2  netmask 255.255.0.0  broadcast 172.18.255.255
+        ether 02:42:ac:12:00:02  txqueuelen 0  (Ethernet)
+        RX packets 65892  bytes 97159789 (97.1 MB)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 31327  bytes 1726581 (1.7 MB)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+lo: flags=73<UP,LOOPBACK,RUNNING>  mtu 65536
+        inet 127.0.0.1  netmask 255.0.0.0
+        loop  txqueuelen 1000  (Local Loopback)
+        RX packets 10  bytes 868 (868.0 B)
+        RX errors 0  dropped 0  overruns 0  frame 0
+        TX packets 10  bytes 868 (868.0 B)
+        TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
+
+ 
