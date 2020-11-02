@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# @Author : Siddhi Naik, CWID: A20444173
+# @Author : Siddhi Naik
 #The Shell Script below runs using the "getopts" command
 #user can choose one option and the script will display the system details for that option.
 
